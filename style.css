@@ -1,0 +1,114 @@
+.logo{
+    padding: 30px;
+}
+
+.signup{
+
+    background-color: rgba(235, 242, 242, 0.427);
+    margin:auto ;
+    width: 400px;
+    height:600px ;
+    border-radius: 20px;
+    border-color: black;
+    border: 3px solid black;
+
+}
+.head{
+    align-items: center;
+    margin: top;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 50px;
+    text-align: center;
+    margin-left: 95px;
+    margin-bottom: 30px;
+
+}
+.form{
+    font-size: 14px;
+    outline: none;
+    align-items: center;
+    border-top: 0;
+    border-left: 0;
+    border-left: 0;
+    text-align: left;
+    margin-left: 35px;
+    height: 35px;
+    width: 330px;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin-top: 6px;
+    
+}
+
+.paragraph{
+    font-size:"30px";
+    align-items: "center";
+    margin-left: 40px;
+
+}
+.sgp{
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    margin-left: 30px;
+}
+.bt{
+    margin-left: 50px;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+    outline: none;
+    cursor: pointer;
+    color: rgba(34, 31, 31, 0.908);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(0, 86, 63, 0.895);
+    color: white;
+}
+
+.glfc{
+    display: flex;
+    justify-content: space-around;
+    border-color: green;
+}
+
+
+    .google{
+        border: 2px solid greenyellow(120,200,150);
+        width: 150px;
+        height: 35px;
+        border-radius: 5px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 5px;
+        cursor: pointer;
+        text-align: center;
+        display: flex;
+        justify-content: space-around;
+        font-size: 16px;
+        margin-top: 30px;
+    
+        
+    
+    
+}
+
+.google:hover{
+    background-color: rgb(118, 234, 118);
+    border-color: black;
+}
+.account{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+
+
+}
+
+   
+
